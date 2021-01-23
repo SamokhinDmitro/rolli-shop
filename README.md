@@ -5,7 +5,7 @@
  * добавление и пересчет товаров в корзине
  * управление условиями доставки
  
- Результат работы проекта [roli-shop](https://samokhindmitro.github.io/cardboard-bootstrap-nodejs/) <br>
+ Результат работы проекта [roli-shop](https://samokhindmitro.github.io/rolli-shop/) <br>
 
- [Project Screen](/distance.png).
+ [Project Screen](/rolli-shop.png).
 
